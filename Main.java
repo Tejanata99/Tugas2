@@ -3,7 +3,7 @@ import java.util.Scanner;
 
 /**
  *
- * @author ariputraaa
+ * @author tejanata
  */
 
 public class Main {
