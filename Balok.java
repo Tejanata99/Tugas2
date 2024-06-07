@@ -1,7 +1,7 @@
 package projectvolumebalok;
 /**
  *
- * @author tejanata-2201010328
+ * @author tejanata
  */
 public class Balok {
   // Atribut (Private)
